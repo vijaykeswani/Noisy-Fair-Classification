@@ -1,7 +1,6 @@
 This repository contains code for an algrorithm to generate a fair classifier when the protected attribute is noisy.
 
 The paper for this algorithm is the following:
-
 *Fair Classification with Noisy Protected Attributes: A Framework with Provable Guarantees* (https://arxiv.org/abs/2006.04778)
 
 The current implementation supports flipping noises in the protected attributes and two types of fairness metrics:
